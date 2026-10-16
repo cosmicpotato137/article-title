@@ -37,4 +37,6 @@ coverage/
 # Cache
 .cache/
 .eslintcache
-dist/
+
+# dist/ is committed on purpose: Quartz uses a pre-built dist/ as-is when installing from git,
+# instead of installing every dev dependency and building the plugin.

@@ -1,4 +1,8 @@
-export { default as ArticleTitle } from "./components/ArticleTitle";
+export {
+  default as ArticleTitle,
+  resolvePageIcon,
+  PAGE_ICON_PROPERTY,
+} from "./components/ArticleTitle";
 
 // Re-export shared types from @quartz-community/types
 export type {

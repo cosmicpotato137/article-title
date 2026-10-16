@@ -1,1 +1,1 @@
-export { default as ArticleTitle } from "./ArticleTitle";
+export { default as ArticleTitle, resolvePageIcon, PAGE_ICON_PROPERTY } from "./ArticleTitle";

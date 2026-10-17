@@ -140,11 +140,11 @@ ArticleTitle.css = `
 }
 
 .article-title .page-icon {
-  height: 1em;
+  height: 1.5em;
   width: auto;
   margin: 0 0.35em 0 0;
   border-radius: 0;
-  vertical-align: -0.125em;
+  vertical-align: -0.25em;
 }
 `;
 var ArticleTitle_default = (() => ArticleTitle);
